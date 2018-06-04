@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">SQLite_proveedor</string>
+    <string name="action_settings">Editar</string>
+    <string name="title_activity_reg_usuario">Registra Usuario</string>
+
+</resources>
